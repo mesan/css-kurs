@@ -1,0 +1,1228 @@
+<zuiprezi>
+  <version>4</version>
+  <zui-table>
+    <settings>
+      <autoplay>
+        <delay>4000</delay>
+      </autoplay>
+      <bounds x="-72250.93672294632" y="-45728.44690884949" width="144501.8740276338" height="91456.92022427917"/>
+    </settings>
+    <object id="19" type="image" x="1447.7" y="1476.45" r="0" s="73.75337219238281">
+      <source w="1920" h="1200">
+        5mcfmZ766o.jpg
+        <url>5mcfmZ766o.jpg</url>
+      </source>
+    </object>
+    <object id="0_4304283" type="button" x="33692.27790572644" y="30041.43022147432" r="-5.255378843149592" s="33.05852344670705" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>794.8907702100573</w>
+        <h>588.7</h>
+      </size>
+    </object>
+    <object id="190" type="label" x="32773.1027718697" y="24333.058182955017" r="-5.255363453759332" s="141.77041616709298" class="head">
+      <textfield>
+        <x>-52.7</x>
+        <y>-18.3</y>
+        <text><![CDATA[Imports!]]></text>
+        <annotations>r0-8 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="5_4907323" type="button" x="-33157.55279774458" y="-23649.42301281811" r="0" s="24.979147477498653" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>366.3</w>
+        <h>275.1</h>
+      </size>
+    </object>
+    <object id="0_4907323" type="button" x="-58396.89068332159" y="-33482.79004820761" r="6.550256686240289" s="34.97082922080145" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>364.5</w>
+        <h>292.53441802252814</h>
+      </size>
+    </object>
+    <object id="32" type="image" x="-35451.39165335849" y="-25608.4840302727" r="0" s="16.46636303772686">
+      <source w="199" h="81">
+        hy3Z74561y.png
+        <url>hy3Z74561y.png</url>
+      </source>
+    </object>
+    <object id="6_4907323" type="label" x="-35489.62090674151" y="-24583.990231187923" r="0" s="8.921124099106661" class="strong">
+      <textfield>
+        <x>-115.75</x>
+        <y>-19.15</y>
+        <text><![CDATA[Et dynamisk språk for CSS]]></text>
+        <annotations>r0-25 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="0" type="button" x="-53030.8" y="-6557.4" r="9.820454256741465" s="61.97611712273508" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>352.325</w>
+        <h>269.946875</h>
+      </size>
+    </object>
+    <object id="77" type="button" x="-53357.6" y="-4323.2" r="9.820454171255578" s="14.687554513133144">
+      <type>invisible</type>
+      <size>
+        <w>1190.8319185059422</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="3_4912912" type="button" x="-57735.86757559171" y="-5076.94903723206" r="9.820453556262889" s="13.675975978081413" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>612.1457489878543</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="0_2729707" type="button" x="-49076.48159485688" y="-3575.802534041379" r="9.820453556262889" s="13.675975978081413" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>612.1457489878543</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="2_4912912" type="label" x="-54106.263472669416" y="-12041.030753065112" r="9.820454071291984" s="123.3622360509608" class="head">
+      <textfield>
+        <x>-57</x>
+        <y>-18.3</y>
+        <text><![CDATA[Variabler]]></text>
+        <annotations>r0-9 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="95" type="button" x="37425.61127384553" y="32324.14327686954" r="-5.252774546582906" s="17.406153605193953">
+      <type>invisible</type>
+      <size>
+        <w>657.391304347826</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="96" type="button" x="34262.370601142684" y="30823.247731578533" r="-5.252714192662124" s="6.198090531480844">
+      <type>invisible</type>
+      <size>
+        <w>802.725</w>
+        <h>992.2592490842492</h>
+      </size>
+    </object>
+    <object id="1" type="label" x="34036.67579670644" y="28481.30861186127" r="-5.2527992749055" s="25.693203636748756" class="strong">
+      <textfield>
+        <x>-52.85</x>
+        <y>-19.15</y>
+        <text><![CDATA[Grunnpakker]]></text>
+        <annotations>r0-11 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="20" type="shape" x="-70437.51609893897" y="-43915.026284842126" r="180" s="90.67103120036803" class="poly3">
+      <geom type="poly">
+        <p x="-20" y="-20"/>
+        <p x="20" y="-20"/>
+        <p x="20" y="20"/>
+        <p x="-20" y="20"/>
+        <t>2</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="35" type="button" x="28140.3" y="-17085.85" r="0" s="82.07210540771484">
+      <type>invisible</type>
+      <size>
+        <w>961.904761904762</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="22" type="label" x="44696.19623780846" y="-25948.19737379219" r="0" s="198.4785601146648" class="head">
+      <textfield>
+        <x>-76.15</x>
+        <y>-18.3</y>
+        <text><![CDATA[LESS is more]]></text>
+        <annotations>r0-4 { color: #318bff; }
+ r0-12 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="23" type="label" x="44700.62982736928" y="-21206.933427966535" r="0" s="141.7704073758342" class="strong">
+      <textfield>
+        <x>-115.35</x>
+        <y>-19.15</y>
+        <text><![CDATA[Dynamic stylesheet language]]></text>
+        <annotations>r0-27 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="29" type="button" x="-58791.06189106939" y="-31392.143438692892" r="6.51477055540747" s="8.642203232508601">
+      <type>invisible</type>
+      <size>
+        <w>1031.713395904436</w>
+        <h>496.675</h>
+      </size>
+    </object>
+    <object id="24" type="label" x="-58499.44881165326" y="-30351.002765596702" r="6.514911198892152" s="19.046022833835785" class="body">
+      <textfield>
+        <x>-205.1</x>
+        <y>-50.95</y>
+        <text><![CDATA[- blir ofte et vedlikeholdsmareritt- bryter DRY / vanskeliggjør gjenbruk]]></text>
+        <annotations>r0-36 { align: left; }
+r37-74 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="28" type="button" x="-59900.96502867508" y="-35604.05352148201" r="6.515025852929817" s="8.32196827782924">
+      <type>invisible</type>
+      <size>
+        <w>691.1392405063291</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="25" type="label" x="-59826.59783773964" y="-34894.00997068333" r="6.514911198892152" s="19.046022833835785" class="body">
+      <textfield>
+        <x>-101.35</x>
+        <y>-67.3</y>
+        <text><![CDATA[- nødvendig- enkelt- gøy- En del av HTML5]]></text>
+        <annotations>r0-12 { align: left; }
+r12-21 { align: left; }
+r21-27 { align: left; }
+r27-44 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="26" type="label" x="-60391.50406989605" y="-36834.50010356236" r="6.514859537910707" s="37.31594350956877" class="head">
+      <textfield>
+        <x>-38.4</x>
+        <y>-18.3</y>
+        <text><![CDATA[CSS er]]></text>
+        <annotations>r0-6 { color: #f00; }
+r0-6 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="27" type="label" x="-60516.397451298304" y="-32264.13848741174" r="6.514859537910707" s="37.31594350956877" class="head">
+      <textfield>
+        <x>-52.15</x>
+        <y>-18.3</y>
+        <text><![CDATA[Men CSS]]></text>
+        <annotations>r0-7 { color: #f00; }
+r0-7 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="30" type="shape" x="-44464.1" y="-29221.25" r="37.83436523849257" s="38.8698058471262" class="line3">
+      <geom type="arrow">
+        <sp>-184.1971495232422 0</sp>
+        <ep>184.19714952324225 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="34" type="button" x="-33389.6052023058" y="-22415.713978042066" r="0" s="6.207943686488241">
+      <type>invisible</type>
+      <size>
+        <w>1011.881188118812</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="33" type="label" x="-33157.55279774458" y="-22431.106062555136" r="0" s="12.489551401086342" class="body">
+      <textfield>
+        <x>-201.75</x>
+        <y>-132.6</y>
+        <text><![CDATA[Strukturerer CSS på en helt ny måteLegger til konsepter som- Variabler- Mixins- funksjonerKompileres til ren CSS]]></text>
+        <annotations>r0-36 { align: left; }
+r37-62 { align: left; }
+r62-74 { align: left; }
+r74-83 { align: left; }
+r83-96 { align: left; }
+r97-119 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="39" type="label" x="-57293.93071427343" y="-7641.822424489204" r="9.772805924591283" s="37.32362222411542" class="body">
+      <textfield>
+        <x>-28</x>
+        <y>-18.3</y>
+        <text><![CDATA[LESS]]></text>
+        <annotations>r0-4 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="41" type="image" x="-57860.760956993974" y="-4352.34992825253" r="9.761225559703842" s="12.468973248458427">
+      <source w="380" h="375">
+        _____draggedImage.jpg
+        <url>_____draggedImage.jpg</url>
+      </source>
+    </object>
+    <object id="42" type="image" x="-49201.458628892375" y="-2857.6446778200375" r="9.772836971391362" s="11.851992191012169">
+      <source w="400" h="341">
+        ______draggedImage.jpg
+        <url>______draggedImage.jpg</url>
+      </source>
+    </object>
+    <object id="40" type="label" x="-48631.53323874257" y="-6152.889205749115" r="9.772805924591283" s="37.32362222411542" class="body">
+      <textfield>
+        <x>-80.75</x>
+        <y>-18.3</y>
+        <text><![CDATA[Kompilert CSS]]></text>
+        <annotations>r0-13 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="44" type="button" x="-57786.6447239582" y="28149.37496323153" r="-2.051409221379435" s="44.268655331553276" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>352.325</w>
+        <h>269.946875</h>
+      </size>
+    </object>
+    <object id="78" type="button" x="-57704.15" y="29743.1" r="-2.051409221379435" s="10.544545563207883">
+      <type>invisible</type>
+      <size>
+        <w>1204.054054054054</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="45" type="button" x="-60857.8675001155" y="29875.46339715945" r="-2.0514103168185893" s="9.76855483988152" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>612.1457489878543</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="46" type="button" x="-54584.421924173344" y="29652.36182435312" r="-2.0514103168185893" s="9.76855483988152" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>612.1457489878543</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="47" type="label" x="-60721.76466586131" y="24523.28427090462" r="-2.0514096673607187" s="88.1158863034132" class="head">
+      <textfield>
+        <x>-41.35</x>
+        <y>-18.3</y>
+        <text><![CDATA[Mixins]]></text>
+        <annotations>r0-6 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="48" type="label" x="-60925.70978565952" y="28017.7893711714" r="-2.0990577887292474" s="26.65973062807465" class="body">
+      <textfield>
+        <x>-28</x>
+        <y>-18.3</y>
+        <text><![CDATA[LESS]]></text>
+        <annotations>r0-4 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="53" type="image" x="-54564.177986933326" y="30229.564993593336" r="-2.003559206193386" s="7.242800734562804">
+      <source w="625" h="484">
+        _________draggedImage.jpg
+        <url>_________draggedImage.jpg</url>
+      </source>
+    </object>
+    <object id="51" type="label" x="-54652.096904450926" y="27785.569661343747" r="-2.0990577887292474" s="26.65973062807465" class="body">
+      <textfield>
+        <x>-80.75</x>
+        <y>-18.3</y>
+        <text><![CDATA[Kompilert CSS]]></text>
+        <annotations>r0-13 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="52" type="image" x="-60714.73784467056" y="30447.731061039496" r="-2.003486589652435" s="6.615072992920319">
+      <source w="699" h="556">
+        ________draggedImage.jpg
+        <url>________draggedImage.jpg</url>
+      </source>
+    </object>
+    <object id="54" type="shape" x="-39606.75" y="-16407.65" r="-37.096717226421795" s="38.87953019372775" class="line3">
+      <geom type="arrow">
+        <sp>82.40461910597003 0</sp>
+        <ep>-82.40461910597003 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="55" type="shape" x="-54884.65" y="3290.45" r="-29.999496466630664" s="38.879532400570454" class="line3">
+      <geom type="arrow">
+        <sp>54.40651183416495 0</sp>
+        <ep>-54.40651183416495 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="56" type="button" x="-25790.51634767528" y="6418.428515036367" r="0" s="61.97610124036493" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>352.325</w>
+        <h>269.946875</h>
+      </size>
+    </object>
+    <object id="79" type="button" x="-25790.2" y="8643.85" r="0" s="14.512995736163916">
+      <type>invisible</type>
+      <size>
+        <w>1213.40206185567</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="57" type="button" x="-30173.997981205222" y="8679.391885793553" r="-0.0000010215351351453813" s="13.67597249299966" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>612.1457489878543</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="58" type="button" x="-21385.452334773745" y="8681.65050689058" r="-0.0000010215351351453813" s="13.67597249299966" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>612.1457489878543</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="59" type="label" x="-28820.247417753857" y="1197.0821071426528" r="-5.567019653536072e-7" s="123.36219459720373" class="head">
+      <textfield>
+        <x>-48.6</x>
+        <y>-18.3</y>
+        <text><![CDATA[Nøsting]]></text>
+        <annotations>r0-7 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="60" type="label" x="-30175.67103386969" y="6076.707508319513" r="-0.0476485790254221" s="37.32361191074215" class="body">
+      <textfield>
+        <x>-28</x>
+        <y>-18.3</y>
+        <text><![CDATA[LESS]]></text>
+        <annotations>r0-4 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="65" type="image" x="-21385.117724240852" y="9459.870953766196" r="0" s="7.762780651792222">
+      <source w="573" h="593">
+        ___________draggedImage.jpg
+        <url>___________draggedImage.jpg</url>
+      </source>
+    </object>
+    <object id="62" type="label" x="-21386.28886110598" y="6066.167276533389" r="-0.0476485790254221" s="37.32361191074215" class="body">
+      <textfield>
+        <x>-80.75</x>
+        <y>-18.3</y>
+        <text><![CDATA[Kompilert CSS]]></text>
+        <annotations>r0-13 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="64" type="image" x="-30173.997981205222" y="9490.989733325232" r="0" s="9.36719047567639">
+      <source w="688" h="515">
+        __________draggedImage.jpg
+        <url>__________draggedImage.jpg</url>
+      </source>
+    </object>
+    <object id="66" type="shape" x="-45362.35" y="28682.8" r="12.962110041764047" s="77.75906540383772" class="line3">
+      <geom type="arrow">
+        <sp>-40.36930300364374 0</sp>
+        <ep>40.36930300364374 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="2" type="button" x="-23248.145518755184" y="28352.734514597178" r="-2.013195566701396" s="20.13324924054752" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1567.449261083744</w>
+        <h>624.1</h>
+      </size>
+    </object>
+    <object id="5" type="button" x="-30772.616224550584" y="27352.33267388069" r="-2.0035807723200185" s="7.2303096308496615" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="4" type="image" x="-30771.9470034848" y="27352.750937046803" r="-2.003541933909932" s="5.694837150344125">
+      <source w="573" h="490">
+        draggedImage.jpg
+        <url>draggedImage.jpg</url>
+      </source>
+    </object>
+    <object id="3" type="label" x="-34928.81365361304" y="23868.618763299703" r="-2.013202527643963" s="36.72261731703639" class="head">
+      <textfield>
+        <x>-92.35</x>
+        <y>-18.3</y>
+        <text><![CDATA[Avansert Mixin]]></text>
+        <annotations>r0-14 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="6" type="button" x="-35826.74101863109" y="31700.345590923993" r="-2.003717235975529" s="5.879063803462244" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="7" type="image" x="-35936.57692605317" y="31670.565253496527" r="-2.0034288499236133" s="5.9498083057562035">
+      <source w="488" h="275">
+        _draggedImage.jpg
+        <url>_draggedImage.jpg</url>
+      </source>
+    </object>
+    <object id="8" type="shape" x="-33344.65" y="29762.65" r="-42.19470226248606" s="13.382778536674486" class="line3">
+      <geom type="arrow">
+        <sp>-33.546432373651896 0</sp>
+        <ep>33.546432373651896 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="9" type="button" x="-24796.137496550866" y="30879.37864847131" r="-2.0035531338970367" s="6.594407863139418" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="10" type="image" x="-24796.72306498343" y="30879.462301104533" r="-2.0000645287970755" s="10.472455799511428">
+      <source w="376" h="223">
+        __draggedImage.jpg
+        <url>__draggedImage.jpg</url>
+      </source>
+    </object>
+    <object id="11" type="shape" x="-27613.1" y="28954.4" r="31.55844814325692" s="13.382779046141847" class="line3">
+      <geom type="arrow">
+        <sp>-40.477053161746845 0</sp>
+        <ep>40.477053161746845 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="12" type="shape" x="-27147.4" y="17744.55" r="-101.110144756621" s="26.768843249547153" class="line3">
+      <geom type="arrow">
+        <sp>-106.79332938736069 0</sp>
+        <ep>106.79332938736069 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="13" type="button" x="-14074.546801597224" y="28724.65412190761" r="0" s="12.776112504014634" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="14" type="image" x="-14009.214095049889" y="28402.34052609855" r="0" s="8.68274054859565">
+      <source w="810" h="392">
+        ___draggedImage.jpg
+        <url>___draggedImage.jpg</url>
+      </source>
+    </object>
+    <object id="15" type="label" x="-14218.763941274054" y="25756.407737248104" r="0" s="26.233466289376903" class="head">
+      <textfield>
+        <x>-44.7</x>
+        <y>-18.3</y>
+        <text><![CDATA[Guards]]></text>
+        <annotations>r0-6 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="16" type="button" x="-56542.73006792892" y="7861.269132870464" r="0" s="8.497221470860445" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>908.203125</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="17" type="image" x="-56542.98102582859" y="8376.234742992605" r="0" s="4.2396948168043656">
+      <source w="1571" h="759">
+        ____draggedImage.jpg
+        <url>____draggedImage.jpg</url>
+      </source>
+    </object>
+    <object id="18" type="label" x="-56896.32974856347" y="6115.020414335749" r="0" s="13.116733144688451" class="head">
+      <textfield>
+        <x>-132.9</x>
+        <y>-18.3</y>
+        <text><![CDATA[Innebygde funksjoner]]></text>
+        <annotations>r0-20 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="21" type="shape" x="-49869.35" y="10696" r="-152.57473708765437" s="38.81661170820421" class="line3">
+      <geom type="arrow">
+        <sp>60.38968998477032 0</sp>
+        <ep>-60.38968998477032 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="31" type="button" x="-7308.554521236755" y="15897.526648725529" r="-2.251264856006328" s="9.891271630990145" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>716.3</w>
+        <h>727.3</h>
+      </size>
+    </object>
+    <object id="36" type="image" x="-7237.282477730571" y="16477.908618028225" r="-2.2513603671047693" s="7.669088775150466">
+      <source w="600" h="657">
+        _______draggedImage.jpg
+        <url>_______draggedImage.jpg</url>
+      </source>
+    </object>
+    <object id="37" type="label" x="-8866.417509752777" y="13222.148132980508" r="-2.2512245817151166" s="35.98768880815788" class="strong">
+      <textfield>
+        <x>-25.65</x>
+        <y>-19.15</y>
+        <text><![CDATA[Scope]]></text>
+        <annotations>r0-5 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="38" type="button" x="26326.161634622596" y="33000.809427012166" r="-5.252789489941585" s="7.567434941632263" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>710.15625</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="68" type="button" x="26205.283579615043" y="31860.7076888129" r="-5.252551627051348" s="2.8502559283532873">
+      <type>invisible</type>
+      <size>
+        <w>1074.107142857143</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="43" type="image" x="26261.07988597493" y="32293.777371009513" r="-5.252692852306869" s="4.857100744821316">
+      <source w="385" h="136">
+        ____________draggedImage.jpg
+        <url>____________draggedImage.jpg</url>
+      </source>
+    </object>
+    <object id="49" type="label" x="26188.5530529704" y="31497.822565890576" r="-5.2527819593960245" s="9.366254995196693" class="body">
+      <textfield>
+        <x>-144.45</x>
+        <y>-34.65</y>
+        <text><![CDATA[Kan importere LESS-filer inn i andre LESS-filer]]></text>
+        <annotations>r0-47 { align: center; }</annotations>
+        <w>288.9</w>
+        <h>69.3</h>
+      </textfield>
+    </object>
+    <object id="69" type="button" x="26695.069747136997" y="33875.14674946126" r="-5.252717150452458" s="3.3465264183511825">
+      <type>invisible</type>
+      <size>
+        <w>1090.494296577947</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="61" type="image" x="26456.827047717263" y="34003.72084672535" r="-5.25197706081685" s="4.300811245336383">
+      <source w="356" h="80">
+        _____________draggedImage.jpg
+        <url>_____________draggedImage.jpg</url>
+      </source>
+    </object>
+    <object id="50" type="label" x="26392.24721486894" y="33301.95890661576" r="-5.2527819593960245" s="9.366254995196693" class="body">
+      <textfield>
+        <x>-114.25</x>
+        <y>-34.65</y>
+        <text><![CDATA[Kan importere CSS-filer inn i LESS-filer]]></text>
+        <annotations>r0-40 { align: center; }</annotations>
+        <w>228.55</w>
+        <h>69.3</h>
+      </textfield>
+    </object>
+    <object id="63" type="label" x="27509.595436831485" y="34560.178162926204" r="-5.251905668911703" s="9.363406602922018" class="strong">
+      <textfield>
+        <x>-94.55</x>
+        <y>-19.15</y>
+        <text><![CDATA[Vil da ikke prosesseres]]></text>
+        <annotations>r0-23 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="67" type="shape" x="27262.05" y="34257.15" r="45.902930496474795" s="3.345086257664606" class="line1">
+      <geom type="arrow">
+        <sp>60.34585735574563 0</sp>
+        <ep>-60.34585735574563 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="70" type="button" x="34324.942770793656" y="31339.384478565797" r="-5.252712259201447" s="8.72534917091535" class="circle">
+      <type>circle</type>
+      <size>
+        <w>503.1</w>
+        <h>503.1</h>
+      </size>
+    </object>
+    <object id="71" type="label" x="34232.924874248114" y="30335.971143053277" r="-5.25278196086909" s="25.70100440547288" class="body">
+      <textfield>
+        <x>-60.05</x>
+        <y>-18.3</y>
+        <text><![CDATA[colors.less]]></text>
+        <annotations>r0-11 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="72" type="label" x="34298.50853869512" y="31340.722920697368" r="-5.2527818474264505" s="17.990702599873348" class="body">
+      <textfield>
+        <x>-90.9</x>
+        <y>-18.3</y>
+        <text><![CDATA[dimensions.less]]></text>
+        <annotations>r0-15 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="73" type="label" x="34382.66308771768" y="32252.28566493079" r="-5.2527818474264505" s="17.990702599873348" class="body">
+      <textfield>
+        <x>-57.7</x>
+        <y>-18.3</y>
+        <text><![CDATA[styles.less]]></text>
+        <annotations>r0-11 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="97" type="button" x="40067.445083668026" y="30295.232310673564" r="-5.252799658512058" s="6.175403150665442">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>1038.235294117647</h>
+      </size>
+    </object>
+    <object id="74" type="button" x="40156.78609595043" y="30763.101488291035" r="-5.252712259201447" s="8.72534917091535" class="circle">
+      <type>circle</type>
+      <size>
+        <w>503.1</w>
+        <h>503.1</h>
+      </size>
+    </object>
+    <object id="75" type="label" x="40092.87548416789" y="30290.045847413727" r="-5.25278196086909" s="25.70100440547288" class="body">
+      <textfield>
+        <x>-59.3</x>
+        <y>-18.3</y>
+        <text><![CDATA[pages.less]]></text>
+        <annotations>r0-10 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="76" type="label" x="40205.890191652456" y="31514.55309253522" r="-5.2527818474264505" s="17.990702599873348" class="body">
+      <textfield>
+        <x>-60</x>
+        <y>-18.3</y>
+        <text><![CDATA[tables.less]]></text>
+        <annotations>r0-11 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="82" type="label" x="39823.68131045556" y="27949.02690666192" r="-5.2527992749055" s="25.693203636748756" class="strong">
+      <textfield>
+        <x>-53.65</x>
+        <y>-19.15</y>
+        <text><![CDATA[Grupperinger]]></text>
+        <annotations>r0-12 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="83" type="button" x="34574.98049149786" y="36206.04372159306" r="-5.252596189509904" s="3.219164080897468" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>904.6538461538462</w>
+        <h>461.45</h>
+      </size>
+    </object>
+    <object id="84" type="label" x="34566.19696500942" y="36117.288277743224" r="-5.2527818474264505" s="17.990702599873348" class="body">
+      <textfield>
+        <x>-73.55</x>
+        <y>-18.3</y>
+        <text><![CDATA[System1.less]]></text>
+        <annotations>r0-12 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="85" type="button" x="37609.396109036934" y="35926.05835819494" r="-5.252596189509904" s="3.219164080897468" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>904.6538461538462</w>
+        <h>461.45</h>
+      </size>
+    </object>
+    <object id="86" type="label" x="37588.48295073113" y="35840.314409141145" r="-5.2527818474264505" s="17.990702599873348" class="body">
+      <textfield>
+        <x>-73.55</x>
+        <y>-18.3</y>
+        <text><![CDATA[System2.less]]></text>
+        <annotations>r0-12 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="87" type="button" x="40637.2868211846" y="35646.99317376228" r="-5.252596189509904" s="3.219164080897468" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>904.6538461538462</w>
+        <h>461.45</h>
+      </size>
+    </object>
+    <object id="88" type="label" x="40628.41964206294" y="35558.15407727922" r="-5.2527818474264505" s="17.990702599873348" class="body">
+      <textfield>
+        <x>-73.55</x>
+        <y>-18.3</y>
+        <text><![CDATA[System3.less]]></text>
+        <annotations>r0-12 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="89" type="shape" x="34467.55" y="34483.8" r="-95.2519105112526" s="7.2209510834073765" class="line5">
+      <geom type="arrow">
+        <sp>-109.0947538100821 0</sp>
+        <ep>109.0947538100821 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="90" type="shape" x="36470.35" y="33903.15" r="-35.25496425887927" s="7.2209507537640905" class="line5">
+      <geom type="arrow">
+        <sp>-327.4211097874376 0</sp>
+        <ep>327.4211097874376 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="91" type="shape" x="36686.7" y="34229.15" r="-133.58370113537276" s="7.220950643719345" class="line1">
+      <geom type="arrow">
+        <sp>-169.06187626122195 0</sp>
+        <ep>169.06187626122193 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="92" type="shape" x="38229" y="34048.45" r="-56.66202344751945" s="7.22095139342091" class="line1">
+      <geom type="arrow">
+        <sp>-176.53903052042332 0</sp>
+        <ep>176.5390305204233 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="93" type="shape" x="40560.7" y="33996.6" r="-95.25101466717041" s="7.220951240838825" class="line3">
+      <geom type="arrow">
+        <sp>-119.1378243318277 0</sp>
+        <ep>119.13782433182772 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="94" type="shape" x="38391.95" y="33817" r="-155.24735602743166" s="7.2209506491487705" class="line3">
+      <geom type="arrow">
+        <sp>-342.65644222161086 0</sp>
+        <ep>342.65644222161086 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="98" type="button" x="60204.6415636944" y="24223.891496598717" r="14.755089573981218" s="27.763986274107776" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>667.9275590551181</w>
+        <h>687.1</h>
+      </size>
+    </object>
+    <object id="99" type="label" x="61546.09519006196" y="17305.56777113876" r="14.763514455672194" s="73.39414629871321" class="head">
+      <textfield>
+        <x>-78.95</x>
+        <y>-18.3</y>
+        <text><![CDATA[Kompilering]]></text>
+        <annotations>r0-11 { align: center; }</annotations>
+        <w>157.9</w>
+        <h>36.65</h>
+      </textfield>
+    </object>
+    <object id="100" type="label" x="64180.14930499471" y="20045.60977236533" r="14.763514735675335" s="52.42438745227407" class="strong">
+      <textfield>
+        <x>-64.25</x>
+        <y>-19.15</y>
+        <text><![CDATA[Alt skal bli css!]]></text>
+        <annotations>r0-17 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="103" type="button" x="59035.67966703313" y="28151.800889595004" r="14.763631794075462" s="7.3436444630083635" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1053.3500000000004</w>
+        <h>469.7000000000001</h>
+      </size>
+    </object>
+    <object id="104" type="image" x="59019.36740355461" y="28230.518017458053" r="14.763441937723622" s="9.049622652661965">
+      <source w="799" h="307">
+        ______________draggedImage.jpg
+        <url>______________draggedImage.jpg</url>
+      </source>
+    </object>
+    <object id="80" type="button" x="60364.9" y="23690.65" r="14.755089573981214" s="9.811328360590505">
+      <type>invisible</type>
+      <size>
+        <w>1690.4347826086955</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="101" type="label" x="60250.985122500075" y="23558.267494041556" r="14.763514735675331" s="26.21219372613703" class="body">
+      <textfield>
+        <x>-306.95</x>
+        <y>-83.6</y>
+        <text><![CDATA[Kan kompileres fra LESS til CSS runtime med JavaScript> Ikke ønskeligKan prekompileres til CSS med flere verktøy> Kan anbefale lessc / dotless]]></text>
+        <annotations>r0-55 { align: left; }
+r55-71 { align: left; }
+r72-116 { align: left; }
+r116-146 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="107" type="image" x="58080.45024825719" y="31350.844889317377" r="14.76321831516773" s="12.192413891720326">
+      <source w="1268" h="188">
+        ________________draggedImage.jpg
+        <url>________________draggedImage.jpg</url>
+      </source>
+    </object>
+    <object id="102" type="label" x="56800.39765467547" y="25283.184791104348" r="14.765419342251914" s="26.19074189511882" class="strong">
+      <textfield>
+        <x>-173.35</x>
+        <y>-19.15</y>
+        <text><![CDATA[https://github.com/dotless/dotless/downloads]]></text>
+        <annotations>r0-44 { color: #318bff; }
+r0-44 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="105" type="button" x="58077.68971136082" y="31364.89853169888" r="14.763631794075462" s="7.3436444630083635" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>2161.9903846153848</w>
+        <h>365.00000000000045</h>
+      </size>
+    </object>
+    <object id="108" type="shape" x="-12847.4" y="14525.35" r="28.06256484990951" s="13.384421212672954" class="line3">
+      <geom type="arrow">
+        <sp>-110.37647224386184 0</sp>
+        <ep>110.3764722438618 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="109" type="shape" x="48648.6" y="22931.85" r="-26.705992708991577" s="13.38442106042895" class="line3">
+      <geom type="arrow">
+        <sp>-122.71578189051316 -7.15</sp>
+        <ep>122.71578189051316 -7.15</ep>
+        <b>14.3</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="110" type="label" x="-30033.963473189553" y="28954.196947472126" r="-2.0009764118210347" s="6.691363786260805" class="strong">
+      <textfield>
+        <x>-142.4</x>
+        <y>-36.35</y>
+        <text><![CDATA[ca det samme som overlasting av metoder]]></text>
+        <annotations>r0-39 { align: left; }</annotations>
+        <w>284.85</w>
+        <h>72.7</h>
+      </textfield>
+    </object>
+    <object id="111" type="label" x="-31850.14579309888" y="-25753.621348914985" r="0" s="25.69460527189774" class="strong">
+      <textfield>
+        <x>-71.75</x>
+        <y>-19.15</y>
+        <text><![CDATA[http://lesscss.org/]]></text>
+        <annotations>r0-19 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="81" type="shape" x="37243.7" y="31042.1" r="-5.2519108906472844" s="7.997564028742683" class="line3">
+      <geom type="arrow">
+        <sp>77.375 0</sp>
+        <ep>-77.375 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="106" type="button" x="-46314.9" y="14371.3" r="-1.5460369252036912" s="8.308581830547707" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>665.158436724566</w>
+        <h>486.1500000000001</h>
+      </size>
+    </object>
+    <object id="112" type="image" x="-46315.1" y="14371.5" r="-1.5460166474675077" s="5.668414741705729">
+      <source w="687" h="387">
+        _______________draggedImage.jpg
+        <url>_______________draggedImage.jpg</url>
+      </source>
+      <sourceUrl>draggedImage.jpg</sourceUrl>
+    </object>
+    <object id="113" type="label" x="-46354.85" y="12900.25" r="-1.5460316326270682" s="15.67853038092789" class="head">
+      <textfield>
+        <x>-76.25</x>
+        <y>-18.3</y>
+        <text><![CDATA[Operasjoner]]></text>
+        <annotations>r0-11 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="114" type="image" x="-47176.35" y="15899.6" r="-1.5461553056431785" s="4.947918394735976">
+      <source w="654" h="68">
+        _________________draggedImage.jpg
+        <url>_________________draggedImage.jpg</url>
+      </source>
+      <sourceUrl>draggedImage.jpg</sourceUrl>
+    </object>
+    <object id="115" type="label" x="-44421.95" y="15911.35" r="-1.5460316872632995" s="7.999249844099925" class="strong">
+      <textfield>
+        <x>-84.75</x>
+        <y>-19.15</y>
+        <text><![CDATA[Sammensatte verdier]]></text>
+        <annotations>r0-19 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="116" type="shape" x="-45361.75" y="15897.15" r="16.218362977693445" s="3.9996224291913975" class="line1">
+      <geom type="arrow">
+        <sp>37.92648316150603 0</sp>
+        <ep>-37.92648316150603 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="117" type="shape" x="-51324.1" y="19207" r="-26.44403426010757" s="31.999999770372156" class="line3">
+      <geom type="arrow">
+        <sp>164.09421455371304 0</sp>
+        <ep>-164.09421455371304 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="118" type="button" x="-482.45" y="22899.05" r="0" s="9.754806518554688" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>702.2816974595843</w>
+        <h>648.9000000000002</h>
+      </size>
+    </object>
+    <object id="119" type="image" x="-658.7999999999998" y="23086.850000000002" r="0" s="6.97304916381836">
+      <source w="755" h="549">
+        __________________draggedImage.jpg
+        <url>__________________draggedImage.jpg</url>
+      </source>
+      <sourceUrl>draggedImage.jpg</sourceUrl>
+    </object>
+    <object id="121" type="shape" x="961.4500000000004" y="24598.45" r="0" s="8.393905639648438" class="poly3">
+      <geom type="poly">
+        <p x="-188.0375" y="-119.04375"/>
+        <p x="188.0375" y="-119.04375"/>
+        <p x="188.0375" y="119.04375"/>
+        <p x="-188.0375" y="119.04375"/>
+        <t>2</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="122" type="image" x="946.1" y="24603.75" r="0" s="7.049987792968751">
+      <source w="381" h="214">
+        ____________________draggedImage.jpg
+        <url>____________________draggedImage.jpg</url>
+      </source>
+      <sourceUrl>draggedImage.jpg</sourceUrl>
+    </object>
+    <object id="123" type="label" x="-658.8" y="20490" r="0" s="21.95199966430664" class="head">
+      <textfield>
+        <x>-90.1</x>
+        <y>-18.3</y>
+        <text><![CDATA[Namespaceing]]></text>
+        <annotations>r0-12 { align: left; }</annotations>
+      </textfield>
+    </object>
+  </zui-table>
+  <path>
+    <o>35</o>
+    <o>28</o>
+    <o>24</o>
+    <o>5_4907323</o>
+    <o>33</o>
+    <o>0</o>
+    <o>77</o>
+    <o>16</o>
+    <o>106</o>
+    <o>44</o>
+    <o>78</o>
+    <o>2</o>
+    <o>5</o>
+    <o>6</o>
+    <o>5</o>
+    <o>9</o>
+    <o>13</o>
+    <o>56</o>
+    <o>79</o>
+    <o>31</o>
+    <o>118</o>
+    <o>0_4304283</o>
+    <o>38</o>
+    <o>95</o>
+    <o>96</o>
+    <o>97</o>
+    <o>95</o>
+    <o>98</o>
+    <o>80</o>
+    <o>103</o>
+    <o>105</o>
+    <o>35</o>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('AnnieUseYourTelescope.swf');
+	fontFamily: strong;
+}
+
+@font-face
+{
+	src: url('OpenSans-B.swf');
+	fontFamily: head;
+}
+
+@font-face
+{
+	src: url('OpenSans.swf');
+	fontFamily: body;
+}
+
+ZLabel
+{
+	padding: 1.2;
+}
+
+ZLabel.head
+{
+	color: #000;
+	fontFamily: head;
+}
+
+.line5
+{
+	color: #333;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+.poly5
+{
+	gradEndColor: #333;
+	borderColor: #333;
+	borderThickness: 0;
+	gradStartColor: #333;
+}
+
+ZLabel.strong
+{
+	color: #f00;
+	fontFamily: strong;
+}
+
+.line1
+{
+	color: #f00;
+	gradEndColor: #f00;
+	gradStartColor: #f00;
+}
+
+.poly1
+{
+	borderColor: #f00;
+}
+
+ZLabel.body
+{
+	color: #333;
+	fontFamily: body;
+}
+
+Background
+{
+	gradEnd: #a9ad96;
+	gradStart: #bed1e2;
+}
+
+Grid
+{
+	color: #d5dbde;
+}
+
+ZFrame.circle
+{
+	gradEndColor: #c5c3c3;
+	thickness: 7;
+	gradStartColor: #c5c3c3;
+	borderThickness: 0;
+	borderColor: #fff;
+}
+
+.line4
+{
+	color: #640f1e;
+	gradEndColor: #640f1e;
+	gradStartColor: #640f1e;
+}
+
+.poly4
+{
+	gradEndColor: #640f1e;
+	borderColor: #640f1e;
+	borderThickness: 0;
+	gradStartColor: #640f1e;
+}
+
+ZFrame.bracket
+{
+	alpha: 0.6;
+	lockTintColor: #000;
+	borderThickness: 0;
+	color: #000;
+	thickness: 7;
+	borderAlpha: 0.5;
+	borderColor: #000;
+}
+
+.line2
+{
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.poly2
+{
+	borderColor: #fff;
+}
+
+ZFrame.roundrect
+{
+	alpha: 1;
+	color: #fff;
+	borderThickness: 0;
+	borderColor: #fff;
+}
+
+ZPoly
+{
+	gradStartAlpha: 0.6;
+	thickness: 100;
+	gradEndAlpha: 0.7;
+	radius: 0;
+	borderAlpha: 1;
+	lockTintAlpha: 0.6;
+}
+
+ZCircle
+{
+	lockTintAlpha: 0.6;
+	radius: 0;
+	thickness: 100;
+	borderAlpha: 1;
+}
+
+ZArrow
+{
+	gradEndColor: #f00;
+	borderColor: #fff;
+	borderThickness: 0;
+	gradStartColor: #f00;
+}
+
+.line3
+{
+	color: #c5c3c3;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+}
+
+.poly3
+{
+	gradEndColor: #c5c3c3;
+	borderColor: #c5c3c3;
+	borderThickness: 0;
+	gradStartColor: #c5c3c3;
+}
+
+ZLine
+{
+	color: #c5c3c3;
+}
+
+ZCurveLine
+{
+	color: #f00;
+}
+
+ZMarker
+{
+	alpha: 0.3;
+	color: #ffff0d;
+}
+
+ZVideo
+{
+	padding: 1.2;
+}
+
+ZLoadedImage
+{
+	lockTintAlpha: 0;
+}
+
+]]></style>
+  <hash>345f2bb5dde95f2563f5c6ff77061eca</hash>
+  <sync>
+    <oid>UNKNOWN</oid>
+    <hash>UNKNOWN</hash>
+  </sync>
+  <config>TlHoDt+RBxHpOwAbC6UAA6rXog79q1mzVg==</config>
+</zuiprezi>
