@@ -1,3 +1,60 @@
+
+html{
+    margin-bottom: 1px;
+    min-height: 100%;
+}
+body {
+    background: #FFFFFF;
+    color: #444;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
+
+/****************
+ * Nesting and grouping
+ ****************/
+
+/* Grouping - flere selektorer, samme stil. 
+ * Litt mindre kode */
+h1, h2, h3{
+    color: #446181;
+    line-height: 2.500em;
+    margin: 0.625em 0.125em;
+}
+
+h1{ font-size: 2.000em; }
+h2{ font-size: 1.750em; }
+h3{ font-size: 1.500em; }
+
+
+p{ 
+    font-size: 1em;
+    line-height: 1.5;
+}
+
+.rounded-corners{
+    border-radius: 0.938em;
+    -moz-border-radius: 0.938em;
+    -webkit-border-radius: 0.938em;
+}
+
+.container{
+    background: #F0F0F0;
+    width: 50%;
+    
+    margin-left:auto;
+    margin-right:auto;
+    
+    padding: 1.250em;
+    margin-top: 0.625em;
+    text-align: center;
+}
+
+/* Nesting - spesifisering av stil - selector inni selector */
+.container p{
+    color:#000000;
+}
+
 /***************
  * CSS3-selectors
  ***************/
