@@ -5,11 +5,32 @@
 			p {
 				color: pink; 
 				font-size: 40px;
+				/*color: blue;
+				text-align: center;*/
+			}
+			.marked {
+				background-color: red;
+			}
+			.marked p {
+				color: white;
+			}
+
+			.marked li ul li p {
+				color: yellow;
+				padding: 0;
+				margin: 0;
+				text-align: left;
+			}
+			.marked li ul li p a {
+				color: green;
 			}
 		</style>
 	</head>
+
 	<body>
+		
 		<p>Rosa tekst</p>
+		
 	</body>
 		
 		
