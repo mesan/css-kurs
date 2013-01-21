@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="21" version="2.0">
+<workbench progressCount="20" version="2.0">
 <workbenchAdvisor/>
-<window height="874" width="1200" x="81" y="24">
+<window height="874" width="1200" x="86" y="22">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
@@ -17,6 +17,8 @@
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="70" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="com.aptana.editor.css" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.html" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
 </coolbarLayout>
@@ -25,13 +27,36 @@
 <editorArea activeWorkbook="DefaultEditorWorkbook">
 <info part="DefaultEditorWorkbook">
 <folder appearance="1" expanded="2">
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+</presentation>
 </folder>
 </info>
 </editorArea>
+<editor id="com.aptana.editor.html" name="index.html" partName="index.html" path="/Users/adm/Documents/css-kurs/kode/wroom/index.html" title="index.html" tooltip="wroom/index.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/wroom/index.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="549" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.css" name="html5Doctor.css" partName="html5Doctor.css" title="html5Doctor.css" tooltip="/Users/adm/Downloads/html5Doctor.css" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/adm/Downloads/html5Doctor.css"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="391" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.css" name="reset.css" partName="reset.css" path="/Users/adm/Documents/css-kurs/kode/wroom/styles/reset.css" title="reset.css" tooltip="wroom/styles/reset.css" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/wroom/styles/reset.css"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="84" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="com.aptana.editor.html" name="konkurranse.html" partName="konkurranse.html" path="/Users/adm/Documents/css-kurs/kode/wroom/html-snippets/konkurranse.html" title="konkurranse.html" tooltip="wroom/html-snippets/konkurranse.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/wroom/html-snippets/konkurranse.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="170" selectionTopPixel="0"/>
+</editor>
 </editors>
 <views>
-<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
 <view id="com.aptana.snippets.ui.views.SnippetsView" partName="Snippets"/>
 <view id="com.aptana.terminal.views.terminal" partName="Terminal"/>
 <view id="com.aptana.samples.ui.SamplesView" partName="Samples"/>
@@ -49,13 +74,22 @@
 <viewState/>
 </view>
 <view id="com.aptana.explorer.view" partName="App Explorer">
-<viewState CommonNavigator.LINKING_ENABLED="0" GitChangedFilesFilterEnabled=""/>
+<viewState CommonNavigator.LINKING_ENABLED="0" GitChangedFilesFilterEnabled="" activeProject="wroom">
+<project name="wroom">
+<expanded>
+<element path="/wroom/styles"/>
+</expanded>
+<selection>
+<element path="/wroom"/>
+</selection>
+</project>
+</viewState>
 </view>
 <view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
 <viewState/>
 </view>
 </views>
-<perspectives activePart="com.aptana.explorer.view" activePerspective="com.aptana.ui.WebPerspective">
+<perspectives activePart="org.eclipse.ui.navigator.ProjectExplorer" activePerspective="com.aptana.ui.WebPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="com.aptana.ui.internal.WebPerspectiveFactory" id="com.aptana.ui.WebPerspective" label="Web"/>
 <alwaysOnActionSet id="com.aptana.browser.actionSet"/>
@@ -107,7 +141,7 @@
 <layout>
 <mainWindow>
 <info folder="true" part="left">
-<folder activePageID="com.aptana.explorer.view" appearance="2" expanded="2">
+<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
 <page content="com.aptana.explorer.view" label="App Explorer"/>
 <page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
 <page content="com.aptana.ui.io.remoteview" label="LabelNotFound"/>
@@ -156,7 +190,78 @@
 </perspective>
 </perspectives>
 <workingSets/>
-<navigationHistory/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.html" path="/wroom/index.html"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" uri="file:/Users/adm/Downloads/html5Doctor.css"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.css" path="/wroom/styles/reset.css"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.html" path="/wroom/eksempel-html/konkurranse.html"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.html" path="/wroom/html-snippets/konkurranse.html"/>
+</editors>
+<item historyLabel="index.html" index="0">
+<position info="not_deleted" x="270" y="5"/>
+</item>
+<item historyLabel="index.html" index="0">
+<position info="not_deleted" x="330" y="68"/>
+</item>
+<item historyLabel="html5Doctor.css" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="index.html" index="0">
+<position info="not_deleted" x="576" y="0"/>
+</item>
+<item historyLabel="html5Doctor.css" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="index.html" index="0">
+<position info="not_deleted" x="576" y="0"/>
+</item>
+<item historyLabel="html5Doctor.css" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="index.html" index="0">
+<position info="not_deleted" x="576" y="0"/>
+</item>
+<item historyLabel="reset.css" index="2">
+<position info="not_deleted" x="1225" y="0"/>
+</item>
+<item historyLabel="html5Doctor.css" index="1">
+<position info="not_deleted" x="4293" y="1017"/>
+</item>
+<item historyLabel="reset.css" index="2">
+<position info="not_deleted" x="1225" y="0"/>
+</item>
+<item historyLabel="html5Doctor.css" index="1">
+<position info="not_deleted" x="0" y="236"/>
+</item>
+<item historyLabel="reset.css" index="2">
+<position info="not_deleted" x="84" y="0"/>
+</item>
+<item historyLabel="html5Doctor.css" index="1">
+<position info="not_deleted" x="391" y="0"/>
+</item>
+<item historyLabel="reset.css" index="2">
+<position info="not_deleted" x="84" y="0"/>
+</item>
+<item historyLabel="index.html" index="0">
+<position info="not_deleted" x="528" y="0"/>
+</item>
+<item historyLabel="reset.css" index="2">
+<position info="not_deleted" x="84" y="0"/>
+</item>
+<item historyLabel="index.html" index="0">
+<position info="not_deleted" x="549" y="0"/>
+</item>
+<item historyLabel="konkurranse.html" index="3">
+<position info="not_deleted" x="50" y="0"/>
+</item>
+<item historyLabel="konkurranse.html" index="3">
+<position info="not_deleted" x="156" y="0"/>
+</item>
+<item active="true" historyLabel="konkurranse.html" index="4">
+<position/>
+</item>
+</navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
 </page>
 <workbenchWindowAdvisor/>
@@ -172,5 +277,21 @@
 </trimArea>
 </trimLayout>
 </window>
-<mruList/>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.html" name="konkurranse.html" tooltip="wroom/eksempel-html/konkurranse.html">
+<persistable path="/wroom/eksempel-html/konkurranse.html"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="volkswagen-beetle-pink.jpg" tooltip="wroom/images/volkswagen-beetle-pink.jpg">
+<persistable path="/wroom/images/volkswagen-beetle-pink.jpg"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.css" name="reset.css" tooltip="wroom/styles/reset.css">
+<persistable path="/wroom/styles/reset.css"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" name="html5Doctor.css" tooltip="/Users/adm/Downloads/html5Doctor.css">
+<persistable uri="file:/Users/adm/Downloads/html5Doctor.css"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="wroom/index.html">
+<persistable path="/wroom/index.html"/>
+</file>
+</mruList>
 </workbench>

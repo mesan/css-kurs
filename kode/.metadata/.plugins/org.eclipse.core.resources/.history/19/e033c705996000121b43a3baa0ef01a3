@@ -1,0 +1,29 @@
+/***************
+ * CSS3-selectors
+ ***************/
+
+/*Velger alle img-elementer på siden hvis src-atributt starter med "images"*/
+img[src^="images"]{
+	border: 5px solid orange;
+}
+
+/*Velger alle img-elementer på siden hvis src-atributt inneholder "tiguan"*/
+img[src*="tiguan"]{
+    border: 5px solid blue;
+}
+
+/*Velger alle img-elementer på siden hvis src-atributt slutter på ".jpg" */
+img[src$=".jpg"]{
+    width: 10em;
+}
+
+/*Velger alle a-elementer på siden hvis href-atributt inneholder  "#" */
+/* text-shadow med verdiene i rekkefølgen: 
+ ** horisontal plassering (kan være negativ)
+ ** vertikal plassering (kan være negativ)
+ ** blur (valgfri)
+ ** farge */
+a[href*="#"]{
+    color: black;
+    text-shadow: 2px 2px 2px #2F2F2F;   
+}
