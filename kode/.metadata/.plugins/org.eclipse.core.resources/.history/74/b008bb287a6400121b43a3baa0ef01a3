@@ -26,6 +26,7 @@ h1{ font-size: 2.000em; }
 h2{ font-size: 1.750em; }
 h3{ font-size: 1.500em; }
 
+
 p{ 
     font-size: 1em;
     line-height: 1.5;
@@ -86,3 +87,27 @@ a[href*="#"]{
     text-shadow: 2px 2px 2px #2F2F2F;   
 }
 
+/*******************************************
+ * Not so good examples:
+ *******************************************/
+ p .overskriftPaaSideTre{
+                color: #446181; 
+                font-size: 40px;
+                text-align: center;
+            }
+            .marked {
+                background-color: red;
+            }
+            .marked p {
+                color: white;
+            }
+
+            .marked li ul li p {
+                color: yellow;
+                padding: 0;
+                margin: 0;
+                text-align: left;
+            }
+            .marked li ul li p a {
+                color: green;
+            }

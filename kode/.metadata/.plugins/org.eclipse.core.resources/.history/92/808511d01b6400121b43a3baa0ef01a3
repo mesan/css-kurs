@@ -26,6 +26,7 @@ h1{ font-size: 2.000em; }
 h2{ font-size: 1.750em; }
 h3{ font-size: 1.500em; }
 
+
 p{ 
     font-size: 1em;
     line-height: 1.5;
@@ -64,7 +65,7 @@ img[src^="images"]{
 }
 
 /*Velger alle img-elementer på siden hvis src-atributt inneholder "tiguan"*/
-img[src*="tiguan"]{
+/*img[src*="tiguan"]{
     border: 5px solid blue;
 }
 
@@ -81,8 +82,7 @@ img[src$=".jpg"]{
  ** vertikal plassering (kan også være negativ eller 0)
  ** blur (valgfri)
  ** farge */
-a[href*="#"]{
+/*a[href*="#"]{
     color: black;
     text-shadow: 2px 2px 2px #2F2F2F;   
-}
-
+}*/
