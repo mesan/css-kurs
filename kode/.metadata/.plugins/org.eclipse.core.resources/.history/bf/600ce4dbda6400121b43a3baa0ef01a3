@@ -80,33 +80,6 @@
 				</div>
 			</section>
 
-			<section id="prisliste">
-				<header>
-					<h1>Kampanjepriser</h1>
-				</header>
-				<table>
-					<tr>
-						<th>Modell</th>
-						<th>hk</th>
-						<th>Pris</th>
-					</tr>
-					<tr>
-						<td></td>
-						<td></td>
-						<td></td>
-					</tr>
-					<tr>
-						<td></td>
-						<td></td>
-						<td></td>
-					</tr>
-					<tr>
-						<td></td>
-						<td></td>
-						<td></td>
-					</tr>
-				</table>
-			</section>
 			<!--
 			<div>
 			<img src="images/volkswagen-beetle-pink.jpg" />
