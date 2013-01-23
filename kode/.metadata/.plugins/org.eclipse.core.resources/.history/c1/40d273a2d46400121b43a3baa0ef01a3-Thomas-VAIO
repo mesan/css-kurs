@@ -1,0 +1,44 @@
+
+/* 2.1 BODY DEFAULTS
+--------------------------------------------------------- */
+
+html{
+    margin-bottom: 1px;
+    min-height: 100%;
+}
+body {
+    background: #F0F0F0;
+    color: #444;
+    font-family: Georgia, serif;
+    font-size: 16px;
+}
+p, blockquote, footer {
+    font-size: 1em;
+    line-height: 1.5;
+} 
+
+h1, h2, h3 {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+h1{
+    font-size: 2em;
+    line-height: 1;
+    letter-spacing: -2px;
+    word-spacing: 2px;
+}
+h2{
+    font-size: 1.5em;
+    line-height: 1.25;
+    margin: 1.5833em 0 .6667em;
+}
+h3 {
+    font-size: 1.25em;
+    line-height: 1.2;
+    margin: 1.8em 0 .6em;
+}
+h4 {
+    font-size: 1.125em;
+    line-height: 1.3333em;
+    margin: 2em 0 .6667em;
+}

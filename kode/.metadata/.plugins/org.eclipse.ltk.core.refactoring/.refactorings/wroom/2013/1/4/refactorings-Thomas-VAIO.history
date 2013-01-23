@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;wroom/html-snippets/konkurranse.html&apos; to &apos;snippets.html&apos;" description="Rename resource &apos;konkurranse.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="html-snippets/konkurranse.html" name="snippets.html" stamp="1358886189065" updateReferences="true"/>
+</session>

@@ -1,0 +1,25 @@
+<!-- Utgangspunkt for et mulig innholdselement -->
+<aside>
+	<header>
+		<h1>Konkurranse</h1>
+		<p>
+			Hvor mye vet du om <span>din konkurranse her</span>
+		</p>
+	</header>
+
+	<div>
+		<ul>
+			<li></li>
+			<li></li>
+		</ul>
+	</div>
+</aside>
+
+<section id="kampanjebilder">
+	<header>
+		<h1>Se vår(e) flotte nye modell(er)!</h1>
+	</header>
+	<div>
+		<img src="[path_til_ditt_favorittbilde]" />
+	</div>
+</section>
