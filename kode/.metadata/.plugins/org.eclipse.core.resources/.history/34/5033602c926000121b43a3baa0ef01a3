@@ -1,9 +1,0 @@
-/***************
- * CSS3-selectors
- ***************/
-
-/*Velger alle */
-img[src^="images"]{
-	border: 5px solid orange;
-	width: 100px;
-}

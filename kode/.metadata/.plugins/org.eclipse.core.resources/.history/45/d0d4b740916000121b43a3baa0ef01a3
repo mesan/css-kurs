@@ -1,7 +1,0 @@
-/***************
- * CSS3-selectors
- ***************/
-
-img[src^="images"]{
-	border: 5px solid orange;
-}
